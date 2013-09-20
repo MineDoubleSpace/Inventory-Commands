@@ -1,0 +1,5 @@
+name: Inventory Commands
+main: info.mdcraft.inventory.plugin
+version: 1.0
+description: Inventory Command
+author: MineDoubleSpace

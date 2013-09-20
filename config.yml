@@ -1,0 +1,20 @@
+#                # # # #   Inventory Commands! # # # #
+
+# Color Codes are supported :)
+# Look here for more info: http://minecraft.gamepedia.com/Formatting_codes 
+# This Plugin is coded by MineDoubleSpace, 
+
+#Name: Inventory name
+name: "Commands"
+
+# Example for 
+item-1:
+  id: 264
+  name: 'Creative Mode'
+  lore:
+  - 'This is a example for Creative mode'
+  - 'Click here to get Creative mode'
+  - 'The command will be send as the player'
+  - 'So if the player does not have permissions to creative mode'
+  - 'it will not execute the command'
+  command: "/gamemode creative"
